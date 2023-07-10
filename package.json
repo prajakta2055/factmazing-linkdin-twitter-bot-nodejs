@@ -1,0 +1,17 @@
+{
+    "name": "jobs",
+    "version": "1.0.0",
+    "description": "Node.js sample for Cloud Run jobs",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Google LLC",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "openai": "^3.3.0",
+        "twitter": "^1.7.1",
+        "twitter-api-v2": "^1.15.0"
+    }
+}
