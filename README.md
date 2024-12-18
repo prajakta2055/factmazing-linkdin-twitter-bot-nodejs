@@ -1,12 +1,12 @@
-Factmazing App Twitter Bot
+## Factmazing App Twitter Bot
 This project features automated Twitter and LinkedIn bots designed to schedule and post engaging content for the FactMazing application. By leveraging these bots, the marketing process has been streamlined, significantly reducing costs while enhancing user engagement and visibility.
 
-##Features
+## Features
 Automated Content Scheduling: Schedules and posts facts to Twitter and LinkedIn at regular intervals.
 Engagement Boost: Attracts target users and fosters community growth for the FactMazing app.
 Cost Efficiency: Reduces manual marketing efforts, cutting down on marketing expenses.
 
-##Getting Started
+## Getting Started
 1. Prerequisites
 Ensure you have the Google Cloud SDK installed.
 Log in to your Google Cloud account and select the appropriate project for deployment.
@@ -37,13 +37,13 @@ gcloud run deploy tweeter-bot-post-facts --image=gcr.io/factmazing-f3ce5/tweeter
 
 This makes the bot accessible as a scalable, cloud-based service.
 
-##Technologies Used
+## Technologies Used
 Node.js: Backend logic for the bots.
 Google Cloud Run: Deployment of containerized bots for scalable and cost-effective service.
 Twitter & LinkedIn APIs: Integration for automated content posting.
 
 
-##Impact
+## Impact
 Significantly boosted user engagement on social media.
 Attracted the target audience to the FactMazing application.
 Enabled growth and visibility for the app while reducing marketing overhead.
