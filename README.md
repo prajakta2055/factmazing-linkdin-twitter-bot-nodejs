@@ -1,4 +1,4 @@
-## Factmazing App Twitter Bot
+## Factmazing App Linkedin-Twitter Bot
 This project features automated Twitter and LinkedIn bots designed to schedule and post engaging content for the FactMazing application. By leveraging these bots, the marketing process has been streamlined, significantly reducing costs while enhancing user engagement and visibility.
 
 ## Features
